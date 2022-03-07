@@ -1,0 +1,19 @@
+{
+  "name": "flappybirdjs",
+  "version": "1.0.0",
+  "description": "First project\u001b[H\u001b[D\u001b[F}",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekyBear/FlappyBirdJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeekyBear/FlappyBirdJS/issues"
+  },
+  "homepage": "https://github.com/GeekyBear/FlappyBirdJS#readme"
+}
